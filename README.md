@@ -5,7 +5,7 @@
 ### 발표순서
 `승재` - `성준` - `영재` 순서로 진행
 
-[chapter](https://github.com/lsj8367/javajungsuk3/chapter) 에
+[chapter](https://github.com/lsj8367/java-study/tree/master/chapter) 에
 
 매주 공부한 내용 기록 또는 블로그에 게시하고 링크를 걸어두기.
 
