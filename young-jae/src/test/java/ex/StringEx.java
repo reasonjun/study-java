@@ -10,11 +10,11 @@ public class StringEx {
         String str = name + 8.0;
         System.out.println(name); //Java
         System.out.println(str); //Java*.0
-        System.out.println(7+" "); //7
+        System.out.println(7 + " "); //7
         System.out.println(" " + 7);// 7
         System.out.println("" + 7);//7
-        System.out.println(""+"");//
-        System.out.println(7 + 7 +"");//14
-        System.out.println(""+ 7 + 7);//77
+        System.out.println("" + "");//
+        System.out.println(7 + 7 + "");//14
+        System.out.println("" + 7 + 7);//77
     }
 }
