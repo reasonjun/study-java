@@ -1,4 +1,4 @@
-package ex;
+package chap2;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
