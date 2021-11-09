@@ -22,3 +22,6 @@ Chapter 1 ~ 5 장까지는 매주 1챕터씩 한명씩 맡아서 발표
 ### 현황
 - [1장 - 자바를 시작하기 전에](https://github.com/lsj8367/java-study/tree/master/chapter/01)
 - [2장 - 변수](https://github.com/lsj8367/java-study/tree/master/chapter/02)
+- [3장, 4장 - 연산자, 조건문](https://github.com/lsj8367/java-study/blob/master/chapter/03~04)
+- [5장 - 배열](https://github.com/lsj8367/java-study/blob/master/chapter/05)
+- [6장 - 클래스](https://github.com/lsj8367/java-study/blob/master/chapter/06)
