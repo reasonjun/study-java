@@ -15,6 +15,9 @@ Chapter 1 ~ 5 장까지는 매주 1챕터씩 한명씩 맡아서 발표
 
 6장 부터는 추가적으로 회의하여 진행
 
+업무로 인해 스터디 잠정 중단. 
+- `성준`, `영재` 각자 정리
+
 ### 연습문제
 
 - [바로가기](https://github.com/castello/javajungsuk3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/java_jungsuk3_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_20170131.pdf)
@@ -22,3 +25,8 @@ Chapter 1 ~ 5 장까지는 매주 1챕터씩 한명씩 맡아서 발표
 ### 현황
 - [1장 - 자바를 시작하기 전에](https://github.com/lsj8367/java-study/tree/master/chapter/01)
 - [2장 - 변수](https://github.com/lsj8367/java-study/tree/master/chapter/02)
+- [3장, 4장 - 연산자, 조건문](https://github.com/lsj8367/java-study/blob/master/chapter/03~04)
+- [5장 - 배열](https://github.com/lsj8367/java-study/blob/master/chapter/05)
+- [6장 - 객체지향 프로그래밍I](https://github.com/lsj8367/java-study/blob/master/chapter/06)
+- [7장 - 객체지향 프로그래밍II](https://github.com/lsj8367/java-study/blob/master/chapter/07)
+- [11장 - 컬렉션](https://github.com/lsj8367/java-study/blob/master/chapter/11)
